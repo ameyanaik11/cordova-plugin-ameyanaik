@@ -1,7 +1,8 @@
-package com.example.plugin;
+package com.ameyanaik.cordova;
 
 import org.apache.cordova.*;
 import org.json.JSONArray;
+import org.json.JSONObject;
 import org.json.JSONException;
 
 public class AmeyaNaik extends CordovaPlugin {
